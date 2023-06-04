@@ -26,7 +26,7 @@ Hello! My name is Amin Najari, and I am a  Python/Django developer. I have alway
 
 
 ## Contact
-If you have any questions or would like to get in touch, feel free to email me at [aminnajarisisi@gmail.com].
+If you have any questions or would like to get in touch, feel free to email me at aminnajarisisi@gmail.com.
 
 
 
