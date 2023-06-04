@@ -1,4 +1,4 @@
-# My Python/Django Developer Portfolio
+# About me
 
 ## Table of Contents
 
